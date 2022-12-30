@@ -16,6 +16,21 @@ Esta herramienta digital web permite la socialización de ejercicios de control 
 Versión de sistema administrador de contenidos: La página está desarrollada bajo Drupal 8.9.8.
 Tipo de base de datos: MySQL.
 
+# Instalación
+
+Requisitos:
+Para instalar esta herramienta en un ambiente web se requiere un hosting con las siguientes características: 
+
+ PHP 7.3 o superior. 
+
+ MySQL 5.6.51 o superior. 
+
+ 300MB de espacio para aplicación. 
+
+ 100 MB espacio para base de datos. 
+
+ Espacio en disco prospectivo teniendo en cuenta crecimiento esperado.
+
 # Secciones
 Inicio: desde aquí se accede a todas las secciones.
 
