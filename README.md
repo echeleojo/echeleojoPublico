@@ -1,5 +1,4 @@
-# echeleojo
- Pataforma echele ojo
+# Pataforma echele ojo
 
 Para aportar a la visibilidad de los procesos de Control Social realizados por Veedurías Ciudadanas de Bogotá, se decide hacer público el código fuente de la plataforma échele ojo mediante licencia Creative Commons (CC). Esto permitirá a los diferentes interesados hacer uso de esta herramienta y adaptarla a las necesidades específicas de su comunidad. 
 
@@ -15,6 +14,37 @@ Esta herramienta digital web permite la socialización de ejercicios de control 
 
 Versión de sistema administrador de contenidos: La página está desarrollada bajo Drupal 8.9.8.
 Tipo de base de datos: MySQL.
+
+# Instalación
+
+Requisitos:
+Para instalar esta herramienta en un ambiente web se requiere un hosting con las siguientes características: 
+
+ PHP 7.3 o superior. 
+
+ MySQL 5.6.51 o superior. 
+
+ 300MB de espacio para aplicación. 
+
+ 100 MB espacio para base de datos. 
+
+ Espacio en disco prospectivo teniendo en cuenta crecimiento esperado.
+
+Pasos:
+
+ Descargar archivos
+
+ Subir y descomprimir en carpeta raiz del sitio web
+
+ Restaurar copia de la base de datos y crear usuario con privilegios 
+
+ Editar archivo de configuración de Drupal en sites/default/settings/settings.php
+
+ Ingresar al sitio como administrador con los datos del manual
+
+ Cambiar pantalla de inicio por node/1 en menú principal y en configuración/Sistema/Configuraciones básicas del sitio
+
+ Cambiar dato de acceso del administrador
 
 # Secciones
 Inicio: desde aquí se accede a todas las secciones.
