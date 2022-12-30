@@ -31,6 +31,22 @@ Para instalar esta herramienta en un ambiente web se requiere un hosting con las
 
  Espacio en disco prospectivo teniendo en cuenta crecimiento esperado.
 
+Pasos:
+
+ Descargar archivos
+
+ Subir y descomprimir en carpeta raiz del sitio web
+
+ Restaurar copia de la base de datos y crear usuario con privilegios 
+
+ Editar archivo de configuración de Drupal en sites/default/settings/settings.php
+
+ Ingresar al sitio como administrador con los datos del manual
+
+ Cambiar pantalla de inicio por node/1 en menú principal y en configuración/Sistema/Configuraciones básicas del sitio
+
+ Cambiar dato de acceso del administrador
+
 # Secciones
 Inicio: desde aquí se accede a todas las secciones.
 
